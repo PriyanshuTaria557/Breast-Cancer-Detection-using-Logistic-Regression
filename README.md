@@ -49,11 +49,14 @@ Target variable:
 ## *📂 Project Structure*
 
 Breast-Cancer-Detection-Logistic-Regression/
-│
-├── LOGISTIC_REGRESSION_TEXT_DATA_ML_MODEL.ipynb   # Main Colab notebook
-├── dataset.csv                                    # Dataset file (optional)
-├── requirements.txt                               # Dependencies
-└── README.md                                      # Project documentation
+
+├── LOGISTIC_REGRESSION_TEXT_DATA_ML_MODEL.ipynb     # Main Colab notebook
+
+├── dataset.csv                                      # Dataset file (optional)
+
+├── requirements.txt                                 # Dependencies
+
+└── README.md                                        # Project documentation
 
 ## *🔄 Workflow*
 
