@@ -1,4 +1,5 @@
-# Breast-Cancer-Detection-using-Logistic-Regression
+<h1 align="center">🔬 Breast-Cancer-Detection-using-Logistic-Regression 🧠</h1>
+
 
 A Machine Learning project that applies Logistic Regression to detect Breast Cancer (Benign or Malignant) from numerical datasets.
 The project is implemented in Google Colab and supports CSV dataset inputs as well as batch predictions from text files.
